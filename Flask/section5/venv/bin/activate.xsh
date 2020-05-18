@@ -28,7 +28,7 @@ def _deactivate(args):
 _deactivate(["nondestructive"])
 aliases["deactivate"] = _deactivate
 
-$VIRTUAL_ENV = r"/Users/avkashsharma/Documents/Flask/section5/venv"
+$VIRTUAL_ENV = r"/Users/avkashsharma/Documents/flask-RESTful/Flask/section5/venv"
 
 $_OLD_VIRTUAL_PATH = $PATH
 $PATH = $PATH[:]
